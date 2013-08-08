@@ -1,0 +1,14 @@
+.panels {
+    float:left;
+    width:25%;
+    height: 100%;
+    display: inline;
+    margin:2px;
+}
+.main {
+    float:left;
+    width:49%;
+    height: 100%;
+    display: inline;
+    margin:2px;
+}
